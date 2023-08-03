@@ -1,2 +1,2 @@
-# IMLP360
-This is IMLP360 Python ML course
+# IMLP347
+This is IMLP347 Python ML course
